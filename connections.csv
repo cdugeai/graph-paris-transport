@@ -1,4 +1,4 @@
-from,to,type,line,price,time
+from,to,mean,line,price,time
 Massy,Gentilly,rer,B,2.55,20
 Massy,CitéU,rer,B,3.65,22
 Massy,Denfert,rer,B,3.65,24
