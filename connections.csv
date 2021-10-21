@@ -1,14 +1,14 @@
-from, to, type, line_no, price, time
-Massy, Gentilly, rer, B, 2.55, 20
-Massy, CitéU, rer, B, 3.65, 22
-Massy, Denfert, rer, B, 3.65, 24
-Massy, Chatelet, rer, B, 3.65, 40
-Gentilly, Corvisart, foot, _, 0, 28
-Gentilly, Corvisart, trott, _, 0, 8
-Gentilly, StadeCharlety, foot, _, 0, 11
-Gentilly, StadeCharlety, trott, _, 0, 3
-StadeCharlety, PorteCharenton, tram, T3, 1.9, 14
-Corvisart, Daumesnil, metro, 6, 1.9, 9
-Denfert, Daumesnil, metro, 6, 1.9, 12
-Chatelet, Alfortville, rer, D, 2.8, 11
-Chatelet, ReuillyDiderot, metro, 1, 1.9, 9
+from,to,type,line_no,price,time
+Massy,Gentilly,rer,B,2.55,20
+Massy,CitéU,rer,B,3.65,22
+Massy,Denfert,rer,B,3.65,24
+Massy,Chatelet,rer,B,3.65,40
+Gentilly,Corvisart,foot,_,0,28
+Gentilly,Corvisart,trott,_,0,8
+Gentilly,StadeCharlety,foot,_,0,11
+Gentilly,StadeCharlety,trott,_,0,3
+StadeCharlety,PorteCharenton,tram,T3,1.9,14
+Corvisart,Daumesnil,metro,6,1.9,9
+Denfert,Daumesnil,metro,6,1.9,12
+Chatelet,Alfortville,rer,D,2.8,11
+Chatelet,ReuillyDiderot,metro,1,1.9,9
